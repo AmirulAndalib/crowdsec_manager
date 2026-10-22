@@ -31,7 +31,7 @@
     "@tanstack/react-query": "5.91.2",
     "@xterm/addon-fit": "0.11.0",
     "@xterm/xterm": "6.0.0",
-    "axios": "1.16.0",
+    "axios": "1.20.0",
     "class-variance-authority": "0.7.1",
     "clsx": "2.1.1",
     "cmdk": "1.1.1",
@@ -42,7 +42,7 @@
     "react": "18.3.1",
     "react-dom": "18.3.1",
     "react-hook-form": "7.71.2",
-    "react-router-dom": "6.30.3",
+    "react-router-dom": "7.18.4",
     "react-simple-maps": "4.0.0-beta.6",
     "recharts": "3.8.0",
     "sonner": "1.7.4",
@@ -71,11 +71,11 @@
     "eslint-plugin-react-hooks": "7.0.1",
     "eslint-plugin-react-refresh": "0.5.2",
     "jsdom": "29.0.2",
-    "postcss": "8.5.15",
+    "postcss": "8.5.31",
     "shadcn": "3.8.5",
-    "tailwindcss": "3.4.19",
+    "tailwindcss": "4.3.3",
     "typescript": "5.9.3",
-    "vite": "8.0.8",
-    "vitest": "4.1.5"
+    "vite": "8.3.5",
+    "vitest": "5.0.5"
   }
 }
